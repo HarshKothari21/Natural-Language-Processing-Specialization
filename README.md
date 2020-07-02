@@ -9,5 +9,6 @@ Analayzing tweets as positive or negative sentiment with the help of supervised 
 - Preprocessing(STOP-Wrods, Handles and Stemming)
 - Set of Positive and Negative frequencies
 - Feature Extraction
+- Logisitic Rgreesion and Naive Bayes Classifier
 
 
