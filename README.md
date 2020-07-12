@@ -1,4 +1,4 @@
-# Natural-Language-Specialization
+# Natural-Language-Processing-Specialization
 NLP Course By DeepLearning.io powered by @coursera
 
 ## NLP_with_classification_and_VectorSpaces
