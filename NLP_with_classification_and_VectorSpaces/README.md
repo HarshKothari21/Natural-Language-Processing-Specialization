@@ -9,7 +9,7 @@
 - Train Logistic Regression 
 - Test Model
 
-# week2 - Sentiment Analysis of tweets Using Naive Bayes Classifier
+# Week2 - Sentiment Analysis of tweets Using Naive Bayes Classifier
 
 - Condition Probability
 - Baye's Rule
@@ -19,3 +19,12 @@
 - Compute Logprior and Loglikelihood
 - Training Naive Bayes
 - Testing Naive Bayes
+
+# Week3 - Word Embeddings
+
+- Vector space
+- Normalization
+- Euclidean distance
+- Cosine Similarity
+- PCA to reduce dimentions
+- Visualization of word vectors
