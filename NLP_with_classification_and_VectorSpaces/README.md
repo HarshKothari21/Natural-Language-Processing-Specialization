@@ -28,3 +28,14 @@
 - Cosine Similarity
 - PCA to reduce dimentions
 - Visualization of word vectors
+
+# Week4 - Naive Machine Translation and LSH
+
+- Generate embedding and transform matrices
+- compute the Loss function
+- Compute the gradient of loss
+- Finding the optimal R with gradient descent algorithm
+- Find nearest neighbor
+- LSH and document search
+  - Create Hash Table
+  - Approximate KNN
