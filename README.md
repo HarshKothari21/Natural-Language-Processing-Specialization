@@ -11,7 +11,9 @@ Analayzing tweets as positive or negative sentiment with the help of supervised 
 - Feature Extraction
 - Logisitic Rgreesion and Naive Bayes Classifier
 
-**Naive Machine Translation and LSH**
+Naive Machine Translation and LSH
+
+**Steps**
 - Word Embeddings
 - transform matrices
 - compute the Loss function and gradient loss
